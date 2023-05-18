@@ -18,6 +18,11 @@ body{
 }
 
 #footer{
-    background-color: aqua;
+    background-color: rgb(219, 163, 41);
     color: rgb(63, 58, 58);
+}
+
+#footer2{
+    background: linear-gradient(blue,pink);
+color: aqua;
 }

@@ -16,3 +16,8 @@ body{
 #parrafo-codigo{
     color: pink;
 }
+
+#footer{
+    background-color: aqua;
+    color: rgb(63, 58, 58);
+}

@@ -18,11 +18,16 @@ body{
 }
 
 #footer{
-    background-color: aqua;
+    background-color: rgb(219, 163, 41);
     color: rgb(63, 58, 58);
 }
 
 #encabezado2{
     background-color: blueviolet;
     color: brown;
+}
+
+#footer2{
+    background: linear-gradient(blue,pink);
+color: aqua;
 }
